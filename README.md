@@ -8,4 +8,4 @@ For Spring Semester
   2) Shape Detection Algorithm
 
 Softwares used:
-OpenCV,Python,Arduino (check requirements.txt for more info on libs)
+OpenCV,Python,Arduino (check individual README txt files for more info on libs)
